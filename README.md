@@ -5,7 +5,7 @@ Name = "Shubham Singh"
 Interests = ["Programming", "Cybersecurity", "Web Automation", "Web Dev"]
 ```
 
-<img align="right" alt="Coding" height = "300" width="550" src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/media/coding-gif.gif"> 
+<img align="right" alt="Coding" height = "300" width="450" src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/media/coding-gif.gif"> 
 
 - 🔭 I’m currently working on some secret stuff 🤫
 
