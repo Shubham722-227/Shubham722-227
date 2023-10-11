@@ -39,9 +39,8 @@ Interests = ["Programming", "Cybersecurity", "Web Automation", "Web Dev"]
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="Visual Studio Code" >
 <img src="https://img.icons8.com/color/48/000000/bash.png" title="Bash" >
 <img src="https://img.icons8.com/color/48/000000/go.png" title="Go" >
-<img src="https://img.icons8.com/color/48/000000/sql.png" title="SQL" >
+<img src="https://img.icons8.com/color/48/000000/mysql.png" title="SQL" >
 <img src="https://img.icons8.com/color/48/000000/php.png" title="PHP" >
-<img src="https://img.icons8.com/color/48/000000/pytorch.png" title="Pytorch" >
 <img src="https://img.icons8.com/color/48/000000/tensorflow.png" title="Tensorflow" >
 <img src="https://img.icons8.com/color/48/000000/opencv.png" title="OpenCV" >
 <img src="https://img.icons8.com/color/48/000000/numpy.png" title="Numpy" >
@@ -51,5 +50,4 @@ Interests = ["Programming", "Cybersecurity", "Web Automation", "Web Dev"]
 <img src="https://img.icons8.com/color/48/000000/google-cloud.png" title="Google Cloud Platform" >
 <img src="https://img.icons8.com/color/48/000000/heroku.png" title="Heroku" >
 </div>
-<img src="https://img.icons8.com/color/48/000000/heroku.png" title="Heroku" >
-</div>
+
