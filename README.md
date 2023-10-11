@@ -2,7 +2,7 @@
 
 ```python
 Name = "Shubham Singh"
-Interests = ["Programming", "Cybersecurity", "Web Automation", "Web Dev"]
+Interests = ["Programming", "Cybersecurity", "Web Automation", "Web Dev", "PCB Design", "3D Printing", "Antenna Design", "Embedded Systems", "VLSI"]
 ```
 
 <img align="right" alt="Coding" height = "300" width="450" src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/media/coding-gif.gif"> 
