@@ -41,15 +41,11 @@ Interests = ["Programming", "Cybersecurity", "Web Automation", "Web Dev"]
 <img src="https://img.icons8.com/color/48/000000/go.png" title="Go" >
 <img src="https://img.icons8.com/color/48/000000/sql.png" title="SQL" >
 <img src="https://img.icons8.com/color/48/000000/php.png" title="PHP" >
-<img src="https://img.icons8.com/color/48/000000/mips.png" title="MIPS" >
-<img src="https://img.icons8.com/color/48/000000/matlab.png" title="MATLAB" >
 <img src="https://img.icons8.com/color/48/000000/pytorch.png" title="Pytorch" >
 <img src="https://img.icons8.com/color/48/000000/tensorflow.png" title="Tensorflow" >
-<img src="https://img.icons8.com/color/48/000000/selenium.png" title="Selenium" >
 <img src="https://img.icons8.com/color/48/000000/opencv.png" title="OpenCV" >
 <img src="https://img.icons8.com/color/48/000000/numpy.png" title="Numpy" >
 <img src="https://img.icons8.com/color/48/000000/pandas.png" title="Pandas" >
-<img src="https://img.icons8.com/color/48/000000/matplotlib.png" title="Matplotlib" >
 <img src="https://img.icons8.com/color/48/000000/flask.png" title="Flask" >
 <img src="https://img.icons8.com/color/48/000000/django.png" title="Django" >
 <img src="https://img.icons8.com/color/48/000000/google-cloud.png" title="Google Cloud Platform" >
