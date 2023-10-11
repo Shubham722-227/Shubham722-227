@@ -55,3 +55,5 @@ Interests = ["Programming", "Cybersecurity", "Web Automation", "Web Dev"]
 <img src="https://img.icons8.com/color/48/000000/google-cloud.png" title="Google Cloud Platform" >
 <img src="https://img.icons8.com/color/48/000000/heroku.png" title="Heroku" >
 </div>
+<img src="https://img.icons8.com/color/48/000000/heroku.png" title="Heroku" >
+</div>
