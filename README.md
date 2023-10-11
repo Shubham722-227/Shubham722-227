@@ -29,13 +29,29 @@ Interests = ["Programming", "Cybersecurity", "Web Automation", "Web Dev"]
 
 ### Tech Stack:
 <div align=center>  
-
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="HTML" height=50 width=55>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="CSS" height=50 width=55>
 <img src="https://img.icons8.com/color/50/000000/c-programming.png" title="C" >
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++" >
 <img src="https://img.icons8.com/color/48/000000/python.png" title="Python" >
 <img src="https://img.icons8.com/color/48/000000/linux.png" title="Linux" >
-<img src="https://img.icons8.com/color/48/000000/github--v1.png" title="Github" >
+<img src="https://img.icons8.com/color/48/000000/github--v1.png" title="GitHub" >
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="Visual Studio Code" >
+<img src="https://img.icons8.com/color/48/000000/bash.png" title="Bash" >
+<img src="https://img.icons8.com/color/48/000000/go.png" title="Go" >
+<img src="https://img.icons8.com/color/48/000000/sql.png" title="SQL" >
+<img src="https://img.icons8.com/color/48/000000/php.png" title="PHP" >
+<img src="https://img.icons8.com/color/48/000000/mips.png" title="MIPS" >
+<img src="https://img.icons8.com/color/48/000000/matlab.png" title="MATLAB" >
+<img src="https://img.icons8.com/color/48/000000/pytorch.png" title="Pytorch" >
+<img src="https://img.icons8.com/color/48/000000/tensorflow.png" title="Tensorflow" >
+<img src="https://img.icons8.com/color/48/000000/selenium.png" title="Selenium" >
+<img src="https://img.icons8.com/color/48/000000/opencv.png" title="OpenCV" >
+<img src="https://img.icons8.com/color/48/000000/numpy.png" title="Numpy" >
+<img src="https://img.icons8.com/color/48/000000/pandas.png" title="Pandas" >
+<img src="https://img.icons8.com/color/48/000000/matplotlib.png" title="Matplotlib" >
+<img src="https://img.icons8.com/color/48/000000/flask.png" title="Flask" >
+<img src="https://img.icons8.com/color/48/000000/django.png" title="Django" >
+<img src="https://img.icons8.com/color/48/000000/google-cloud.png" title="Google Cloud Platform" >
+<img src="https://img.icons8.com/color/48/000000/heroku.png" title="Heroku" >
 </div>
