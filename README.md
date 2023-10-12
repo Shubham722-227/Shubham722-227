@@ -46,6 +46,7 @@ Interests = ["Programming", "Cybersecurity", "Web Automation", "Web Dev", "PCB D
 <img src="https://img.icons8.com/color/48/000000/mysql.png" title="SQL" >
 <img src="https://img.icons8.com/color/48/000000/php.png" title="PHP" >
 <img src="https://img.icons8.com/color/48/000000/tensorflow.png" title="Tensorflow" >
+<img src="https://s3.us-east-2.amazonaws.com/aiworkbox/technology-images/pytorch_logo_200x200.png" title="Pytorch" height=50 width=50>
 <img src="https://img.icons8.com/color/48/000000/opencv.png" title="OpenCV" >
 <img src="https://img.icons8.com/color/48/000000/numpy.png" title="Numpy" >
 <img src="https://img.icons8.com/color/48/000000/pandas.png" title="Pandas" >
