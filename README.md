@@ -54,8 +54,5 @@ Interests = ["Programming", "Cybersecurity", "Web Automation", "Web Dev", "PCB D
 <img src="https://img.icons8.com/color/48/000000/django.png" title="Django" >
 <img src="https://img.icons8.com/color/48/000000/google-cloud.png" title="Google Cloud Platform" >
 <img src="https://img.icons8.com/color/48/000000/heroku.png" title="Heroku" >
-<img src="https://img.icons8.com/color/48/000000/jupyter.png" title="Jupyter Notebook">
-<img src="https://img.icons8.com/color/48/000000/anaconda.png" title="Anaconda">
-
 </div>
 
